@@ -6,5 +6,3 @@
 *[Python] (http://www.python.org)
 ##Authors
 * **Smartwick**
-
-
